@@ -1,0 +1,3 @@
+#create file
+with open('at_bats.txt', 'w')as f:
+    f.write('')
