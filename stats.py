@@ -29,4 +29,3 @@ def j_stats(hits,abs):
 
 print(j_stats(2,3))
 print(j_stats(0,3))
-#print(j_stats(1,3))
